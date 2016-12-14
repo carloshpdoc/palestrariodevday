@@ -1,3 +1,3 @@
-# Palestra sobre Apigiity no Rio Dev Day
+# Palestra sobre Apigility no Rio Dev Day
 
 ### Colocarei o codigo hoje ainda. 
