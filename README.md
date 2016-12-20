@@ -1,7 +1,7 @@
 Código da palestra sobre Apigility no Rio Dev Day
 =================================================
 
-Instalaçao
+Instalação
 -------------
 
 Digite em seu terminal:
